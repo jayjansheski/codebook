@@ -6,9 +6,9 @@
 
 * [HTMX.org](https://htmx.org)
 * [AlpineJS](https://alpinejs.dev)
+- [Include Component](HTMX%20&%20Alpine/Include%20Component.md)
 
 ### Articles
 - [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg)
-- [[Using HTMX to include an HTML component]]
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
 
