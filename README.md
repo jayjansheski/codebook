@@ -14,3 +14,6 @@
 
 ## Gitlab
 - [Merge Request showing new commit after sending merge request](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/33773)
+
+## Bash
+- [Are the null string and "" the same string?](https://unix.stackexchange.com/questions/280430/are-the-null-string-and-the-same-string)
