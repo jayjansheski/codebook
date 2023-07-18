@@ -1,5 +1,7 @@
 # Codebook
 
+## Python
+- [Can I pass arguments to pytest fixtures?](https://stackoverflow.com/questions/44677426/can-i-pass-arguments-to-pytest-fixtures)
 - [How to hash a JSON file in python](https://stackoverflow.com/a/51360222/3787805)
 
 ## HTMX & Alpine
@@ -17,3 +19,6 @@
 
 ## Bash
 - [Are the null string and "" the same string?](https://unix.stackexchange.com/questions/280430/are-the-null-string-and-the-same-string)
+
+## Docker
+- - [Failure starting docker container. "failed to create shim task: OCI runtime create failed: runc create failed"](https://stackoverflow.com/questions/72695311/failure-starting-docker-container-failed-to-create-shim-task-oci-runtime-crea)
