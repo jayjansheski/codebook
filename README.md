@@ -4,7 +4,7 @@
 - [How to hash a JSON file in python](https://stackoverflow.com/a/51360222/3787805) #json #python
 - [HTMX.org](https://htmx.org) #javascript
 - [AlpineJS](https://alpinejs.dev) #javascript
-- [Include Component](HTMX%20&%20Alpine/Include%20Component.md) #javascript
+- [Include Component example in Alpine & HTMX](HTMX%20&%20Alpine/Include%20Component.md) #javascript #htmx #alpine
 - [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg) #django #javascript
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/) #django #javascript
 - [Merge Request showing new commit after sending merge request](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/33773) #gitlab
