@@ -1,6 +1,6 @@
 # Readme
 
-- [Connection refused on docker container](https://stackoverflow.com/questions/36813690/connection-refused-on-docker-container)
+- [Connection refused on docker container](https://stackoverflow.com/a/36813938/3787805)
 - [Filtering pytest fixtures](https://stackoverflow.com/questions/63780376/filtering-pytest-fixtures) #python #pytest #fixtures
 - [Can I pass arguments to pytest fixtures?](https://stackoverflow.com/questions/44677426/can-i-pass-arguments-to-pytest-fixtures) #python #pytest #fixtures
 - [How to hash a JSON file in python](https://stackoverflow.com/a/51360222/3787805) #json #python
