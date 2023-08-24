@@ -1,5 +1,6 @@
 # Readme
 
+- [Python `open`](https://docs.python.org/3/library/functions.html#open)
 - [Pull access denied repository does not exist or may require docker login](https://stackoverflow.com/a/54130954/3787805)
 - [Connection refused on docker container](https://stackoverflow.com/a/36813938/3787805)
 - [Filtering pytest fixtures](https://stackoverflow.com/questions/63780376/filtering-pytest-fixtures) #python #pytest #fixtures
