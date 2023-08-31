@@ -1,5 +1,6 @@
 # Readme
 
+- [Problems with virtual environment](https://github.com/python-poetry/poetry/issues/4646#issuecomment-955642429)
 - [Another explanation of bind-mounts](https://gist.github.com/jayjansheski/36f3515ae519df80823982b0e561b2fd)
 - [Docker Bind Mounts](https://docs.docker.com/storage/bind-mounts/)
 - [Python `open`](https://docs.python.org/3/library/functions.html#open)
