@@ -1,5 +1,6 @@
 # Readme
 
+- [Another explanation of bind-mounts](https://gist.github.com/jayjansheski/36f3515ae519df80823982b0e561b2fd)
 - [Docker Bind Mounts](https://docs.docker.com/storage/bind-mounts/)
 - [Python `open`](https://docs.python.org/3/library/functions.html#open)
 - [Pull access denied repository does not exist or may require docker login](https://stackoverflow.com/a/54130954/3787805)
