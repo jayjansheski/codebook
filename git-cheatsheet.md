@@ -1,6 +1,7 @@
 # Git Cheatsheet
 
 - [GitHub's cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+- [GitHub's .gitignore files](https://github.com/github/gitignore)
 
 ---
 
