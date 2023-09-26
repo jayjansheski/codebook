@@ -4,6 +4,7 @@
 
 ---
 
+- [Constants as default function arguments in Python](https://stackoverflow.com/questions/48030117/is-it-ok-to-use-module-constants-as-default-function-arguments-in-python)
 - [Problems with virtual environment](https://github.com/python-poetry/poetry/issues/4646#issuecomment-955642429)
 - [Another explanation of bind-mounts](https://gist.github.com/jayjansheski/36f3515ae519df80823982b0e561b2fd)
 - [Docker Bind Mounts](https://docs.docker.com/storage/bind-mounts/)
