@@ -1,4 +1,14 @@
-# Git Cheatsheet
+# Cheatsheet
+
+## Docker
+
+### Test Docker Ignore File [source](https://stackoverflow.com/questions/38946683/how-to-test-dockerignore-file)
+
+```
+rsync -avn . /dev/shm --exclude-from .dockerignore --dry-run
+```
+
+## Git
 
 - [GitHub's cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [GitHub's .gitignore files](https://github.com/github/gitignore)
