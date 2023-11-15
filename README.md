@@ -1,6 +1,6 @@
 # Readme
 
-- [Git Cheatsheet](https://github.com/jayjansheski/codebook/blob/main/git-cheatsheet.md)
+- [Cheatsheet](https://github.com/jayjansheski/codebook/blob/main/cheatsheet.md)
 
 ---
 - [How to import my django app's models from command-line?](https://stackoverflow.com/questions/52338146/how-to-import-my-django-apps-models-from-command-line)
