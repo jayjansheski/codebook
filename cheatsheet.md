@@ -2,7 +2,7 @@
 
 ## Docker
 
-### Test Docker Ignore File
+### Test Dockerignore File
 
 You can use [this shell script](https://gist.github.com/sgdan/1cc6a8becc023d3b9b2c7b9dd379f102).
 
