@@ -7,6 +7,7 @@
 ```
 rsync -avn . /dev/shm --exclude-from .dockerignore --dry-run
 ```
+[Dockerignore Syntax](https://docs.docker.com/build/building/context/#syntax), [Processor](https://github.com/jayjansheski/codebook/edit/main/cheatsheet.md)
 
 ## Git
 
