@@ -2,12 +2,13 @@
 
 ## Docker
 
-### Test Docker Ignore File [source](https://stackoverflow.com/questions/38946683/how-to-test-dockerignore-file)
+### Test Docker Ignore File [source](https://gist.github.com/sgdan/1cc6a8becc023d3b9b2c7b9dd379f102)
 
-```
-rsync -avn . /dev/shm --exclude-from .dockerignore --dry-run
-```
+Note that the commonly suggested `rsync -avn . /dev/shm --exclude-from .dockerignore` method sorta works, but there's some extra syntax in `dockerignore` not in `rsync`.
+
 [Dockerignore Syntax](https://docs.docker.com/build/building/context/#syntax), [Processor](https://github.com/jayjansheski/codebook/edit/main/cheatsheet.md)
+
+---
 
 ## Git
 
