@@ -2,7 +2,9 @@
 
 ## Docker
 
-### Test Docker Ignore File [source](https://gist.github.com/sgdan/1cc6a8becc023d3b9b2c7b9dd379f102)
+### Test Docker Ignore File
+
+You can use [this shell script](https://gist.github.com/sgdan/1cc6a8becc023d3b9b2c7b9dd379f102).
 
 Note that the commonly suggested `rsync -avn . /dev/shm --exclude-from .dockerignore` method sorta works, but there's some extra syntax in `dockerignore` not in `rsync`.
 
