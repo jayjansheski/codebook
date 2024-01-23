@@ -25,3 +25,7 @@ git reset --hard commitID
 ```
 > This command completely removes the changes made after the specified commitID, effectively reverting the code back to its previous state.
 
+## SSH to AWS Instance
+```sh
+ssh -i "~/.ssh/MY-PEMFILE.pem" ec2-user@IP-ADDRESS.us-west-2.compute.amazonaws.com
+```
