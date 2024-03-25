@@ -3,6 +3,7 @@
 - [Cheatsheet](https://github.com/jayjansheski/codebook/blob/main/cheatsheet.md)
 
 ---
+- [Can't find 'action.yml', 'action.yaml' or 'Dockerfile'](https://github.com/actions/checkout/issues/692#issuecomment-1112305878)
 - [How to import my django app's models from command-line?](https://stackoverflow.com/questions/52338146/how-to-import-my-django-apps-models-from-command-line)
 - [Constants as default function arguments in Python](https://stackoverflow.com/questions/48030117/is-it-ok-to-use-module-constants-as-default-function-arguments-in-python)
 - [Problems with virtual environment](https://github.com/python-poetry/poetry/issues/4646#issuecomment-955642429)
