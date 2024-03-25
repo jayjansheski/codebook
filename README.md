@@ -3,6 +3,7 @@
 - [Cheatsheet](https://github.com/jayjansheski/codebook/blob/main/cheatsheet.md)
 
 ---
+- [GitHub Actions Job is skipped although all needs succeeded](https://stackoverflow.com/a/74529413/3787805)
 - [Can't find 'action.yml', 'action.yaml' or 'Dockerfile'](https://github.com/actions/checkout/issues/692#issuecomment-1112305878) [(more)](https://web.archive.org/web/20220427182405/https://github.community/t/actions-reusable-workflow-failing-to-find-action-yml-that-does-exist/231258/3)
 - [How to import my django app's models from command-line?](https://stackoverflow.com/questions/52338146/how-to-import-my-django-apps-models-from-command-line)
 - [Constants as default function arguments in Python](https://stackoverflow.com/questions/48030117/is-it-ok-to-use-module-constants-as-default-function-arguments-in-python)
